@@ -1,0 +1,2 @@
+A simple ATTiny4 project.  The header file for the MCU isn't included
+and will need to be provided.
