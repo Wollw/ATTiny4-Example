@@ -1,7 +1,7 @@
 .NOLIST
 .INCLUDE "tn4def.inc"
 .LIST
-.DEF    tmp = R16
+.DEF    tmp = R15
 
     rjmp    main
 
